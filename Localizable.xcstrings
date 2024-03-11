@@ -1,0 +1,78 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld" : {
+
+    },
+    "An Error Occurred" : {
+
+    },
+    "and" : {
+
+    },
+    "Author" : {
+
+    },
+    "Author: %@" : {
+
+    },
+    "Built in" : {
+
+    },
+    "Description" : {
+
+    },
+    "Details" : {
+
+    },
+    "Enter the app" : {
+
+    },
+    "Enter the app and discover some GitHub repositories" : {
+
+    },
+    "GitHub" : {
+
+    },
+    "Go to GitHUB" : {
+
+    },
+    "Privacy policy" : {
+
+    },
+    "Reload" : {
+
+    },
+    "Retry" : {
+
+    },
+    "Terms of use" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms of use"
+          }
+        }
+      }
+    },
+    "Trending Projects" : {
+
+    },
+    "TrendingProjects" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trending Projects"
+          }
+        }
+      }
+    },
+    "Welcome to iOS Test" : {
+
+    }
+  },
+  "version" : "1.0"
+}
